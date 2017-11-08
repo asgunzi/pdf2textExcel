@@ -23,3 +23,15 @@ Basta copiar todos os arquivos e jogar numa pasta. As macros do Excel devem esta
 https://github.com/asgunzi/pdf2textExcel
 
 
+
+
+Outros links:
+
+Ferramentas em Excel VBA
+https://ferramentasexcelvba.wordpress.com/
+
+
+Ideias técnicas com um pouco de filosofia
+https://ideiasesquecidas.com/
+
+
